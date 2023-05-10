@@ -1,0 +1,6 @@
+userAccountController\UserAccountController.class
+userAccountModel\UserAccount.class
+userAccountService\UserAccountServiceImpl.class
+userAccountRepo\UserAccountRepository.class
+userAccountService\UserAccountService.class
+com\accountmanager\accIrembo\AccIremboApplication.class
